@@ -37,7 +37,7 @@ function add (a, b) {
 
 // addStatement
 var addStatement = (a, b) => {
-  return a + b;
+  return b + c;
 }
 // console.log(addStatement(4, 7));
 
